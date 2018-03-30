@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>FindAndAddEmployees</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <lastRun>2018-03-30T13:25:06</lastRun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <testSuiteGuid>e0fe3384-a47b-481a-9cbb-d34db8137294</testSuiteGuid>
+   <testCaseLink>
+      <guid>4c5fdd46-be69-4dce-a235-18441c7b6c6e</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/PIM/CreateEmployee</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>8792f6fe-1503-417d-b063-8e533ec2e8af</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Users File</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>8792f6fe-1503-417d-b063-8e533ec2e8af</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>employeeFirstName</value>
+         <variableId>75d3420e-08cd-4669-85a4-5f5060aa6475</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>8792f6fe-1503-417d-b063-8e533ec2e8af</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>employeeLastName</value>
+         <variableId>f2718f6d-3c55-4262-b393-c4a183b95043</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

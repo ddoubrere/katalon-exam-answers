@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>FindAndDelEmployees</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <lastRun>2018-03-30T13:08:44</lastRun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <testSuiteGuid>7073b005-1350-47ec-982e-fca17850171b</testSuiteGuid>
+   <testCaseLink>
+      <guid>fc0ab850-6bc7-47a8-b027-2e04ddc97e52</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/PIM/DeleteEmployee</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>9a2ea43b-747a-4c1e-a3be-c1a5922d2b2b</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Users File</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>9a2ea43b-747a-4c1e-a3be-c1a5922d2b2b</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>employeeFirstName</value>
+         <variableId>f8e2083c-e2d6-412d-8245-bcc0bae4a95b</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>9a2ea43b-747a-4c1e-a3be-c1a5922d2b2b</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>employeeLastName</value>
+         <variableId>eaa656c8-bd84-4479-af2f-8e7eb5ada58c</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>
